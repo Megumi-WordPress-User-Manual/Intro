@@ -1,6 +1,6 @@
 # Megumi WordPress User Manual 
 
-## Konnichiwa! Welcome to Megumi WordPress User Manual! 
+### Konnichiwa! Welcome to Megumi WordPress User Manual! 
 -------------------------------------------------------
 
 We love WordPress and we love open source. 
