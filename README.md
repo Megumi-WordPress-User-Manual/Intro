@@ -8,4 +8,10 @@ This is why we've created this page to share our knowledge about WordPress. Begi
 
 Thanks and enjoy!
 
-You can also check out our [WordPress Community Contributions] (https://en.digitalcube.jp/about/community-contribution/) for more WordPress stuff! 
+### First things first...
+-------------------------
+* Login to your WordPress Dashboard
+
+
+
+
