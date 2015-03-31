@@ -10,7 +10,30 @@ Thanks and enjoy!
 
 ### First things first...
 -------------------------
-* Login to your WordPress Dashboard
+* Login to the WordPress Dashboard
+
+### Basic info for writing a blog
+---------------------------------
+* Create an article 
+* Revise an article 
+* Add a category 
+* Make a page 
+
+### Customizing the look of your blog
+-------------------------------------
+* Blog settings and design 
+
+### Express yourself more!
+--------------------------
+* Add photos and videos
+
+### Users & Communication
+-------------------------
+* Comments & Trackbacks 
+
+### Others
+----------
+* [Our WordPress Community Contributions] (https://en.digitalcube.jp/about/community-contribution/)
 
 
 
