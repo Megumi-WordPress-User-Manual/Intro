@@ -32,10 +32,5 @@ Thanks and enjoy!
 -------------------------
 * Comments & Trackbacks 
 
-### Others
-----------
-* [Our WordPress Community Contributions] (https://en.digitalcube.jp/about/community-contribution/)
-
-
 
 
