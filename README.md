@@ -31,7 +31,7 @@ Thanks and enjoy!
 
 * Add photos and videos
 
-### Users & Communication
+### [Users & Communication] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/add-photos-and-videos.md)
 --------------------------
 
 * Comments & Trackbacks
