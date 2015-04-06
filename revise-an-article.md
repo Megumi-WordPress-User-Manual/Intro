@@ -79,9 +79,9 @@ To do this, highlight the texts and click "~~**ABC**~~".
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000712/ed674920-dc65-11e4-8a7f-82911eead8e1.png"> 
 
-Check the box **Open link in a new window/tab** if you want to open the link in a new windown or tab. Otherwise. don't check it. 
+3. Check the box **Open link in a new window/tab** if you want to open the link in a new windown or tab. Otherwise. don't check it. 
 
-Then click "**Add Link**".
+4. Then click "**Add Link**".
 
 Now the text is clickable. 
 
