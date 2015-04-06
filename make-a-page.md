@@ -13,4 +13,4 @@
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7001531/f619eaa4-dc75-11e4-8ced-91d20df62e23.png">
 
-6. Click "**Publish**". 
+6.Click "**Publish**". 
