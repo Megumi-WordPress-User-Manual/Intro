@@ -17,13 +17,13 @@
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7001874/81d866c8-dc7c-11e4-833b-2705d6c744ae.png">
 
-5. Select image alignment and size. 
+5.Select image alignment and size. 
 
-6. Then click "**Insert into post**". 
+6.Then click "**Insert into post**". 
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7001937/7cdd35f8-dc7d-11e4-9f07-0228a6055bd9.png">
 
-7. You will see your selected image in your post. 
+7.You will see your selected image in your post. 
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7001961/ea5d2db8-dc7d-11e4-98dc-7684ff285222.png">
 
