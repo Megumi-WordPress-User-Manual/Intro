@@ -61,9 +61,33 @@ To do this, highlight the texts and click "~~**ABC**~~".
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000585/c4f0669c-dc61-11e4-948f-7e8304bd5578.png">
 
------------------------------------------
+----------------------------------------- 
 ####Text Alignment: Left, Center or Right
 
 1. Highlight the texts and click "**Align Left**", "**Align Center**" or "**Align Right**". 
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000601/68c3aaea-dc62-11e4-8df8-9aefb0d1940b.png">
+
+---------
+####Link Setting
+
+1. Highlight the text(s) you want to make clickable and click the "**Insert / edit link**" button. 
+
+<img src="https://cloud.githubusercontent.com/assets/7699775/7000702/b1830700-dc65-11e4-8e3e-26716e6d2897.png">
+
+2. Paste the link. 
+
+<img src="https://cloud.githubusercontent.com/assets/7699775/7000712/ed674920-dc65-11e4-8a7f-82911eead8e1.png"> 
+
+Check the box **Open link in a new window/tab** if you want to open the link in a new windown or tab. Otherwise. don't check it. 
+
+Then click "**Add Link**".
+
+Now the text is clickable. 
+
+---------
+####Unlink
+
+1. Click the "**Remove Link**" button to remove the link from the text.
+
+<img src="https://cloud.githubusercontent.com/assets/7699775/7000744/9d4e6a9e-dc66-11e4-85db-788c533119b9.png">
