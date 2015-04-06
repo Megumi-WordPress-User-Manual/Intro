@@ -1,6 +1,6 @@
-###Revise an Article
+##Revise an Article
 
-####Draft and Preview
+###Draft and Preview
 ---------------------
 1. In the article post, click "Save Draft".
 
@@ -11,8 +11,8 @@
 Once you've completed the article, click "View Post". 
 
 
-####Character Design
---------------------
+###Character Design / Text Format
+---------------------------------
 You can edit the look of your texts by clicking "Visual" editor. 
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000465/6767872e-dc5e-11e4-9d9d-5710d8dfe53d.png">
@@ -20,7 +20,7 @@ You can edit the look of your texts by clicking "Visual" editor.
 
 
 
-#####**Bold**
+####Bold
 
 1. When you click "**B**", your texts will appear bold. Or
 
@@ -34,7 +34,7 @@ You can edit the look of your texts by clicking "Visual" editor.
 
 
 
-#####**Italic**
+####Italic
 
 1. When you click "**I**", your texts will be Italic. Or
 
@@ -48,7 +48,7 @@ You can edit the look of your texts by clicking "Visual" editor.
 
 
 
-#####**Strikethrough**
+####Strikethrough
 
 1. You can use **Strikethrough** to cross out some texts. 
 To do this, highlight the texts and click "~~**ABC**~~".
@@ -59,7 +59,7 @@ To do this, highlight the texts and click "~~**ABC**~~".
 
 
 
-#####**Bulleted List**
+####Bulleted List
 
 1. Highlight the texts and click "**Bulleted List**". 
 
@@ -69,7 +69,7 @@ To do this, highlight the texts and click "~~**ABC**~~".
 
 
 
-#####**Numbered List**
+####Numbered List
 
 1. Highlight the texts and click "**Numbered List**".
 
@@ -79,7 +79,7 @@ To do this, highlight the texts and click "~~**ABC**~~".
 
 
 
-#####**Text Alignment: Left, Center or Right**
+####Text Alignment: Left, Center or Right
 
 1. Highlight the texts and click "**Align Left**", "**Align Center**" or "**Align Right**". 
 
