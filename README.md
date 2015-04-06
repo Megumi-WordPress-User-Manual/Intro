@@ -16,7 +16,7 @@ Thanks and enjoy!
 ### Basic info for writing a blog
 ---------------------------------
 
-* [Create an article] (http://megumi-wordpress-user-manual.github.io/Intro/create-an-article.html)
+* [Create an article] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/create-an-article.md)
 * Revise an article
 * Add a category
 * Make a page
