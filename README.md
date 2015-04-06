@@ -18,7 +18,7 @@ Thanks and enjoy!
 
 * [Create an article] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/create-an-article.md)
 * [Revise an article] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/revise-an-article.md)
-* Add a category
+* [Add a category] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/add-a-category.md)
 * Make a page
 
 ### Customizing the look of your blog
