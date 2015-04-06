@@ -35,3 +35,6 @@ Thanks and enjoy!
 --------------------------
 
 * [Comments & Trackbacks] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/comments-and-trackbacks.md)
+
+#### Back to First Steps with WordPress
+---------------------------------------
