@@ -29,9 +29,9 @@ Thanks and enjoy!
 ### Express yourself more!
 --------------------------
 
-* Add photos and videos
+* [Add photos and videos] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/add-photos-and-videos.md)
 
-### [Users & Communication] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/add-photos-and-videos.md)
+### Users & Communication 
 --------------------------
 
 * Comments & Trackbacks
