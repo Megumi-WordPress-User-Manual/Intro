@@ -24,7 +24,7 @@ Thanks and enjoy!
 ### Customizing the look of your blog
 --------------------------------------
 
-* Blog settings and design
+* [Blog settings and design] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/blog-settings-and-design.md)
 
 ### Express yourself more!
 --------------------------
