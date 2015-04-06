@@ -34,4 +34,4 @@ Thanks and enjoy!
 ### Users & Communication 
 --------------------------
 
-* Comments & Trackbacks
+* [Comments & Trackbacks] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/comments-and-trackbacks.md)
