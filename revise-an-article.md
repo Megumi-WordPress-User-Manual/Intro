@@ -79,7 +79,7 @@ To do this, highlight the texts and click "~~**ABC**~~".
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000712/ed674920-dc65-11e4-8a7f-82911eead8e1.png"> 
 
-3. Check the box **Open link in a new window/tab** if you want to open the link in a new windown or tab. Otherwise. don't check it. 
+3. Check the box **Open link in a new window/tab** if you want to open the link in a new windown or tab. Otherwise, don't check it. 
 
 4. Then click "**Add Link**".
 
@@ -91,3 +91,32 @@ Now the text is clickable.
 1. Click the "**Remove Link**" button to remove the link from the text.
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000744/9d4e6a9e-dc66-11e4-85db-788c533119b9.png">
+
+----------
+####Heading
+
+You can make the text bigger with heading
+
+1. Highlight the texts, and choose from Heading 1 - 6. 
+
+<img src="https://cloud.githubusercontent.com/assets/7699775/7001204/01c5b42a-dc6f-11e4-98de-de285583cf37.png">
+
+-------------
+####Underline
+
+1. When you click "**U**", your texts will be Underlined. Or
+
+2. Highlight the texts and click "**U**". Or
+
+3. Highlight the texts and on your keyboard, press "**Command** + **U**". 
+
+<img src="https://cloud.githubusercontent.com/assets/7699775/7001230/87e21044-dc6f-11e4-9588-3d7d5eda33e4.png">
+
+--------
+####Tags
+
+It is possible to have categories for each article / post. You can also use tag to organize articles based on tags. 
+
+<img src="https://cloud.githubusercontent.com/assets/7699775/7001268/507be944-dc70-11e4-87b0-e1aec5e12eed.png">
+
+Example, I will use "tag 1" as a tag name. Then click "**Add**".
