@@ -19,7 +19,7 @@ You can edit the look of your texts by clicking "Visual" editor.
 
 
 
-
+-------
 ####Bold
 
 1. When you click "**B**", your texts will appear bold. Or
