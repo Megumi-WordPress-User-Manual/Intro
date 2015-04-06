@@ -71,17 +71,17 @@ To do this, highlight the texts and click "~~**ABC**~~".
 ---------
 ####Link Setting
 
-1. Highlight the text(s) you want to make clickable and click the "**Insert / edit link**" button. 
+1.Highlight the text(s) you want to make clickable and click the "**Insert / edit link**" button. 
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000702/b1830700-dc65-11e4-8e3e-26716e6d2897.png">
 
-2. Paste the link. 
+2.Paste the link. 
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000712/ed674920-dc65-11e4-8a7f-82911eead8e1.png"> 
 
-3. Check the box **Open link in a new window/tab** if you want to open the link in a new windown or tab. Otherwise, don't check it. 
+3.Check the box **Open link in a new window/tab** if you want to open the link in a new windown or tab. Otherwise, don't check it. 
 
-4. Then click "**Add Link**".
+4.Then click "**Add Link**".
 
 Now the text is clickable. 
 
@@ -117,6 +117,8 @@ You can make the text bigger with heading
 
 It is possible to have categories for each article / post. You can also use tag to organize articles based on tags. 
 
-<img src="https://cloud.githubusercontent.com/assets/7699775/7001268/507be944-dc70-11e4-87b0-e1aec5e12eed.png">
+<img src="https://cloud.githubusercontent.com/assets/7699775/7001292/f6eb6b24-dc70-11e4-9b9f-739257a250f1.png">
 
-Example, I will use "tag 1" as a tag name. Then click "**Add**".
+Example, I will use "Movie Lines" as a tag name. Then click "**Add**".
+
+Posts with the same tag will be displayed at the bottom of the article as a **related article**.
