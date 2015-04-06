@@ -2,7 +2,7 @@
 
 ####Draft and Preview
 ---------------------
-1. In the article post, click "Save as Draft".
+1. In the article post, click "Save Draft".
 
 2. You can check the article being edited by clicking "Preview".
 
