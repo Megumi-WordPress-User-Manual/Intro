@@ -11,7 +11,7 @@ Thanks and enjoy!
 ### First things first...
 --------------------------
 
-* [Login to the WordPress Dashboard] (http://megumi-wordpress-user-manual.github.io/Intro/login-to-wordpress-dashboard.html)
+* [Login to the WordPress Dashboard] (https://github.com/Megumi-WordPress-User-Manual/Intro/blob/gh-pages/login-to-wordpress-dashboard.md)
 
 ### Basic info for writing a blog
 ---------------------------------
