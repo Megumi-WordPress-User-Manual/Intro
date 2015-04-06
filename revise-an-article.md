@@ -17,8 +17,6 @@ You can edit the look of your texts by clicking "Visual" editor.
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000465/6767872e-dc5e-11e4-9d9d-5710d8dfe53d.png">
 
-
-
 -------
 ####Bold
 
@@ -30,10 +28,7 @@ You can edit the look of your texts by clicking "Visual" editor.
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000522/2a69a9ea-dc60-11e4-85b3-fae212af069a.png">
 
-
-
-
-
+----------
 ####Italic
 
 1. When you click "**I**", your texts will be Italic. Or
@@ -44,10 +39,7 @@ You can edit the look of your texts by clicking "Visual" editor.
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000520/fd9f55fe-dc5f-11e4-8677-79563a8a8fbf.png">
 
-
-
-
-
+-----------------
 ####Strikethrough
 
 1. You can use **Strikethrough** to cross out some texts. 
@@ -55,30 +47,21 @@ To do this, highlight the texts and click "~~**ABC**~~".
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000549/f25f62dc-dc60-11e4-82a0-d4796f323d46.png">
 
-
-
-
-
+-----------------
 ####Bulleted List
 
 1. Highlight the texts and click "**Bulleted List**". 
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000580/7aee3330-dc61-11e4-87b3-90378ef00393.png">
 
-
-
-
-
+-----------------
 ####Numbered List
 
 1. Highlight the texts and click "**Numbered List**".
 
 <img src="https://cloud.githubusercontent.com/assets/7699775/7000585/c4f0669c-dc61-11e4-948f-7e8304bd5578.png">
 
-
-
-
-
+-----------------------------------------
 ####Text Alignment: Left, Center or Right
 
 1. Highlight the texts and click "**Align Left**", "**Align Center**" or "**Align Right**". 
