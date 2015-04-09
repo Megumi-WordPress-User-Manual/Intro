@@ -1,6 +1,6 @@
 #Megumi WordPress User Manual
 
-### Konnichiwa! Welcome to Megumi WordPress User Manual!
+### Konnichiwa! Welcome to [Megumi WordPress User Manual!] (http://megumi-wordpress-user-manual.github.io/Intro/index.html)
 --------------------------------------------------------
 We love WordPress and we love open source.
 
